@@ -24,6 +24,9 @@ jobs:
 
     - name: Run tests
       run: npm test
+    
+    - name: Second batch for testing
+      run: echo "This is a new message integrated on the test batch"
 
     - name: Build the project
       run: npm run build
