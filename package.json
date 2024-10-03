@@ -2,7 +2,7 @@
   "name": "ejemplo-ci-cd",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://leivajm.github.io/ejemplocicd",
+  "homepage": "https://leivajm.github.io/ejemplo-ci-cd",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
