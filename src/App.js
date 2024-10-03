@@ -20,7 +20,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Aprender React
+          Learn React
         </a>
       <ButtonComponent></ButtonComponent>
       </header>
