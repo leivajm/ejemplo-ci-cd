@@ -13,9 +13,7 @@ function App() {
         <p>Ejemplo</p>
         <p>Ejemplo 2</p>
         <p>Ejemplo 3</p>
-        <p>nuevo parrafo</p>
-        <p>nuevo parrafo 2</p>
-        <p>nuevo parrafo 3</p>
+
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -24,7 +22,7 @@ function App() {
         >
           Learn React
         </a>
-      <ButtonComponent></ButtonComponent>
+        <ButtonComponent></ButtonComponent>
       </header>
     </div>
   );
